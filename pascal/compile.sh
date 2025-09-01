@@ -2,4 +2,4 @@
 
 set -xe
 
-fpc -g -o./out/app -O2 fizzbuzz.pas
+fpc -g -o./out/app -O2 palindrome.pas
